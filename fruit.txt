@@ -1,5 +1,4 @@
 apple
-orange
 lemon
-banana
 watermelon
+嘻嘻，我修改了orange和banana
